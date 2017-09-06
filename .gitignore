@@ -1,5 +1,3 @@
 core/config.php
 .idea
 debug.php
-photos
-!photos/default-avatar.png
